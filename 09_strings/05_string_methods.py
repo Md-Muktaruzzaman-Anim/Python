@@ -43,6 +43,7 @@ print(",".join(['Apples', 'Bananas', 'Pineapples']))
 # Checking String Properties
 
 text = "Python123"
+
 print(text.isalpha()) # Whether there are only letters (A-Z, a-z) # Output: False
 print(text.isdigit()) # Whether there are only numbers (0-9) # Output: False
 print(text.isalnum()) # Whether there are letters + numbers (no spaces/special characters) # Output: True

@@ -10,6 +10,7 @@ name = "Anim"
 # print(name[3])
 # # print(name[4]) # IndexError: string index out of range
 
+
 print(name[-1])
 print(name[-2])
 print(name[-3]) # name[-3+4] name[1]

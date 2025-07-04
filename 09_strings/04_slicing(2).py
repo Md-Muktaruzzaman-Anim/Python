@@ -32,6 +32,7 @@ The larger the step, the more characters are skipped"""
 name = "0123456789"
 
 # print(name[0:10:n]) # skip n-1 character
+
 print(name[0:10:1]) # skip 0 character
 print(name[0:10:2]) # skip 1 character
 print(name[0:10:3]) # skip 3-1 ie 2 character

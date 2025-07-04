@@ -18,6 +18,7 @@ print(f"{b} you are awesome and take this {b1}$ bag.")
 print(f"{c} you are awesome and take this {c1}$ bag.")
 
 # ord() and chr() - Character Encoding
+
 #     Ascii value
 
 # print(ord('A')) # Output: 65
