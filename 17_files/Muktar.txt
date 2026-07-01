@@ -1,0 +1,4 @@
+
+Muktar is a nice guy. He lives in Bangladesh and he works with Python. His favourite package is Pandas. He is interested in AI.
+
+Muktar initially lived in Bangladesh. He is a very nice guy.

@@ -1,0 +1,119 @@
+# Virtual environments
+
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Compiled files
+
+*.so
+*.pyd
+*.dll
+
+# Distribution / packaging
+
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+*.egg-info/
+*.egg
+
+# Installer logs
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+
+.env
+.env.*
+*.env
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# macOS
+
+.DS_Store
+
+# Linux
+
+*~
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Logs
+
+*.log
+
+# Temporary files
+
+temp/
+tmp/
+
+# MyPy
+
+.mypy_cache/
+
+# Ruff
+
+.ruff_cache/
+
+# Pyre
+
+.pyre/
+
+# Generated files
+
+*.sqlite3
+*.db
+
+# Node (if used later)
+
+node_modules/
+npm-debug.log*
+
+# Misc
+
+*.bak
+*.old
+*.orig
